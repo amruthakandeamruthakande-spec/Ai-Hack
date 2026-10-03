@@ -1,0 +1,4 @@
+project_id = "ngwegbvfvvoopohsbklt"
+
+[functions.qr-checkin]
+verify_jwt = true
